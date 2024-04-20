@@ -54,10 +54,8 @@ nav {
 }
 
 nav a {
-	text-decoration: none;
 	color: black;
 	padding: 11px;
-	font-weight:bold;
 	font-size: 19px;
 }
 
