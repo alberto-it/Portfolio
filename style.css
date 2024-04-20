@@ -86,11 +86,11 @@ ul {
 
 @media only screen and (max-width: 768px) {
 	p {
-	  font-size: 13px; 
+	  font-size: 15px; 
 	}
 	
 	h1, h2, h3 {
-	  font-size: 16px;
+	  font-size: 19px;
 	}
 	.profile-pic {
 		width: 20%;
