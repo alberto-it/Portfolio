@@ -8,7 +8,7 @@ body {
 header {
 	display: flex;
 	align-items: center; 
-	padding: 20px;
+	padding: 2%;
 	background-color: #f0f0f0;
 	justify-content: space-between;
 	border: 1px solid grey;
@@ -83,3 +83,13 @@ li {
 ul {
 	margin-bottom: 30px;
 }
+
+@media only screen and (max-width: 768px) {
+	p {
+	  font-size: 16px;
+	}
+	
+	h1, h2, h3 {
+	  font-size: 20px;
+	}
+  }
