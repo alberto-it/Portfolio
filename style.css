@@ -81,18 +81,16 @@ ul {
 	margin-bottom: 30px;
 }
 
-@media only screen 
-and (max-width: 550px)
- {
+@media only screen and (max-width: 550px) {
 	.profile-pic {
 		width: 90px;
 		height: 90px;
 	}
 	h1 {
-		font-size: 19.5px;
+		font-size: 19.4px;
 	}
 	h2 {
-		font-size: 18.7px;
+		font-size: 18.6px;
 	}
 	h3 {
 		font-size: 18px;
