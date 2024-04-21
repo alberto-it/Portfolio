@@ -4,7 +4,6 @@ body {
 	padding: 0;
 }
 
-
 header {
 	display: flex;
 	align-items: center; 
@@ -82,13 +81,11 @@ ul {
 	margin-bottom: 30px;
 }
 
-@media only screen /* and (max-width: 768px)*/ {
-	
+@media only screen and (max-width: 768px) {
 	.profile-pic {
 		width: 65px;
 		height: 65px;
 	}
-	
 	h1 {
 		font-size: 20px;
 	}
