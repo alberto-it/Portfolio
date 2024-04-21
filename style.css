@@ -86,11 +86,8 @@ ul {
 		width: 90px;
 		height: 90px;
 	}
-	h1 {
+	h1, h2 {
 		font-size: 19.4px;
-	}
-	h2 {
-		font-size: 18.5px;
 	}
 	h3 {
 		font-size: 18px;
