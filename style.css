@@ -81,13 +81,17 @@ ul {
 
 @media only screen and (max-width: 575px) {
 	Header {
-		font-size: 60%
+		font-size: 68.5%;
+		display: flex;
+		justify-content: space-around;
 	}
+
 	.profile-pic {
 		width: 90px;
 		height: 90px;
 		margin: 17px
 	}
+	
 	h1, h2, h3 {
 		padding: 0, 1px;
 	}
