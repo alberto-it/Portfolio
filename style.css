@@ -79,9 +79,9 @@ ul {
 	margin-bottom: 30px
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 575px) {
 	Header {
-		font-size: 70%
+		font-size: 60%
 	}
 	.profile-pic {
 		width: 90px;
@@ -89,6 +89,6 @@ ul {
 		margin: 17px
 	}
 	h1, h2, h3 {
-		padding: 0, 1px
+		padding: 0, 1px;
 	}
   }
