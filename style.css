@@ -83,7 +83,6 @@ ul {
 	Header {
 		font-size: 68.5%;
 		display: flex;
-		justify-content: space-around;
 	}
 
 	.profile-pic {
