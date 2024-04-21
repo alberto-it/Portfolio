@@ -80,17 +80,11 @@ ul {
 }
 
 @media only screen and (max-width: 550px) {
+	header {
+		font-size: 75%;
+	}
 	.profile-pic {
 		width: 90px;
 		height: 90px;
-	}
-	h1 {
-		font-size: 20x;
-	}
-	h2 {
-		font-size: 19px;
-	}
-	h3 {
-		font-size: 18px;
 	}
   }
