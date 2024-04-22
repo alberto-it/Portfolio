@@ -1,7 +1,5 @@
 # Mini Project: Personal Portfolio Enhancement Project
 
-## The following a breakdown of this three-page personal portfolio website
-
 ### index.html
 This is the main page of the website titled "Alberto Rodriguez - Home" and includes the following sections:
 * Header: Displays a profile picture, name ("Alberto Rodriguez"), and title ("Software Developer").
