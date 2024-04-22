@@ -23,7 +23,8 @@ This page is titled "Al Rodriguez - Resume" and includes the following sections:
 This file contains the style sheet that defines the visual appearance of the website.
 * It applies styles to HTML elements like headers, paragraphs, navigation, footer, profile picture, etc.
 * It uses media queries to adjust the layout for smaller screens.
-* Overall, the code utilizes HTML for the content structure and CSS for styling the layout and visual design.
+
+Overall, the code utilizes HTML for the content structure and CSS for styling the layout and visual design.
 
 &nbsp;
 
