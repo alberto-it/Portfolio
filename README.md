@@ -20,11 +20,11 @@ This page is titled "Al Rodriguez - Resume" and includes the following sections:
 * Footer: Same as the index.html.
 
 ### style.css
-This file contains the CSS styles that define the visual appearance of the website.
-* It applies styles to various HTML elements like headers, paragraphs, navigation, footer, profile picture, etc.
-* It uses media queries to adjust the layout for smaller screens (less than 575px wide).
+This file contains the style sheet that defines the visual appearance of the website.
+* It applies styles to HTML elements like headers, paragraphs, navigation, footer, profile picture, etc.
+* It uses media queries to adjust the layout for smaller screens.
 * Overall, the code utilizes HTML for the content structure and CSS for styling the layout and visual design.
 
 &nbsp;
 
-***This has been published to GitHub Page:***   https://alberto-it.github.io/Portfolio/
+***Published to GitHub Page:***   https://alberto-it.github.io/Portfolio/
