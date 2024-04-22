@@ -24,8 +24,6 @@ This file contains the style sheet that defines the visual appearance of the web
 * It applies styles to HTML elements like headers, paragraphs, navigation, footer, profile picture, etc.
 * It uses media queries to adjust the layout for smaller screens.
 
-Overall, the code utilizes HTML for the content structure and CSS for styling the layout and visual design.
+Overall, the code utilizes HTML for the content structure, CSS for styling the layout and visual design. and has been published to GitHub Page:
 
-&nbsp;
-
-***Published to GitHub Page:***   https://alberto-it.github.io/Portfolio/
+https://alberto-it.github.io/Portfolio/
